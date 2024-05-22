@@ -45,7 +45,7 @@ st.markdown(pink_css, unsafe_allow_html=True)
 
 
 image_url = 'https://th.bing.com/th/id/OIP.nqlmOzQymCdXw3Mhx8BCqQHaE8?w=270&h=180&c=7&r=0&o=5&dpr=1.5&pid=1.7'
-st.image('New folder\logo.jpg', use_column_width=True)
+st.image('logo.jpg', use_column_width=True)
 
 st.title("HOW DOES CANCER GUARDIAN WORKS")
 
